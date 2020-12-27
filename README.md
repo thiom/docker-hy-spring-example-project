@@ -1,4 +1,4 @@
-Copied from [docker-hy/spring-example-project](https://github.com/docker-hy/spring-example-project) for exercise
+Copied from [docker-hy/spring-example-project](https://github.com/docker-hy/spring-example-project) for an exercise
 
 # Simple button
 
